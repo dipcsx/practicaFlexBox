@@ -98,7 +98,7 @@ button{
 .pie{
     display: flex;
     justify-content: center;
-    padding: 100px;
+    padding: 50px;
     width: 80%;
 }
 .pie article{
@@ -115,5 +115,6 @@ button{
 input{
     height: 25px;
 }
+
 
 
